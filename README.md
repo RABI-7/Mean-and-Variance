@@ -53,7 +53,7 @@ REG NO: 24001812
 ![EXP 01](https://github.com/user-attachments/assets/14c84572-6200-4bec-b99c-9fc668ea594c)
 
 # OUTPUT :
-![Screenshot 2024-12-21 003052](https://github.com/user-attachments/assets/b147ad9e-63d5-495d-b121-d0a4824eb27e)
+![image](https://github.com/user-attachments/assets/a0c0bc8f-abfb-4ac6-8629-3c9ff9803d31)
 
 
 # RESULTS :
